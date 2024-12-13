@@ -1,1 +1,1 @@
-# Linearizing-Llama-3.2-1B
+## LMAOCaT: Low-Rank Mamba and gated Attention Optimization via Conversion and Transfer
