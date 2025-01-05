@@ -1,0 +1,12 @@
+transformers
+datasets
+tqdm
+numpy
+torch
+huggingface-hub[cli]
+python-dotenv
+datasets
+matplotlib
+peft
+pathlib
+seaborn
