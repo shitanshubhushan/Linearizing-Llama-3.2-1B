@@ -35,5 +35,5 @@ MMLU_eval-5shot.ipynb
 ```
 
 ### Poster for the Project:
-** Outdated and does not reflect accurate results **
+**Outdated and does not reflect accurate results**
 ![Alt text](assets/EECS_598_LLM_Poster.jpg)
